@@ -12,6 +12,16 @@
 <img src="captures/v_xml_part1.png"/>
 <img src="captures/appcontext_part1.png" />
 <h1> Part 2 : </h1>
-<img src="captures/adapter.png/>
+<img src="captures/adapter.png/">
+<img src="captures/uc.png"/>
+<h3> Version annotation spring </h3>
+<img src="captures/v_annotation_part2.png/">
+<h3> Version XML spring </h3>
+<img src="captures/v_xml_part2.png/">
+<h3> fichier XML </h3>
+<img src="captures/appcontext_part2.png"/>
+<h3> Resultat </h3>
+<img src="captures/tv.png"/>
+
 
 
