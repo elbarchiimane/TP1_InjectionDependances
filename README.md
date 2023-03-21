@@ -11,3 +11,7 @@
 <h2> c.2 : Injection des dependances avec SPRING en utilisant la version XML : </h2>
 <img src="captures/v_xml_part1.png"/>
 <img src="captures/appcontext_part1.png" />
+<h1> Part 2 : </h1>
+<img src="captures/adapter.png/>
+
+
